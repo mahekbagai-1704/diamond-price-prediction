@@ -10,7 +10,7 @@ An end-to-end Machine Learning project that predicts diamond prices using a **Ra
 
 ### 📊 Dataset Preview
 
-![Dataset Preview](screenshots/Dataset_Preview.png)
+![Dataset Preview](screenshots/DataSet_Preview.png)
 
 ### 🏠 Application Dashboard
 
